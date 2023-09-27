@@ -1,0 +1,8 @@
+BackEnd/target/test-classes/segalas/teste/apiBlocoDeNota/repository/AnotacaoRepositoryTest.class
+BackEnd/target/test-classes/segalas/teste/apiBlocoDeNota/controller/AnotacaoControllerTest.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/repository/AnotacaoRepository.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/dto/DadosCadastroAnotacao.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/dto/DadosAtualizacaoAnotacao.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/controller/AnotacaoController.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/anotacao/Anotacao.class
+BackEnd/target/classes/segalas/teste/apiBlocoDeNota/ApiBlocoDeNotaApplication.class
